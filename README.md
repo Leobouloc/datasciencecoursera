@@ -1,4 +1,4 @@
-test-repo
+datasciencecoursera
 =========
 
 this is just a test
